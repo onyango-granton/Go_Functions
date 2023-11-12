@@ -1,0 +1,1 @@
+A slight modifications to some functions in go... Some are in progres... Feel free to contribute
